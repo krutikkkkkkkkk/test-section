@@ -163,3 +163,7 @@ hr{
   border-color: #E5334B;
   color: #fff;
 }
+
+.header-mobile {
+  background-color: #000 !important;
+}
