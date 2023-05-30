@@ -88,6 +88,19 @@ body {
 .btn-danger:focus {
   box-shadow: none;
 }
+.btn-login {
+  background-color: #E5334B;
+  border-color: #E5334B;
+  color: #fff;
+  padding: 0.5rem 2rem!important;
+  border-radius: 0.5rem!important;
+  height: 3rem!important;
+}
+.btn-login:hover {
+  background-color: transparent;
+  color: #E5334B;
+  border-color: #E5334B;
+}
 
 hr{
   background-color: #ffffff;
