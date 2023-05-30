@@ -112,9 +112,13 @@ hr{
 }
 .coursehead1 {
   color: #ffb800;
+  margin-top: 1rem;
 }
 
 .CTime1 {
+  color: #fff;
+}
+.CTime {
   color: #fff;
 }
 .programebtn{
